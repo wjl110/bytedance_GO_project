@@ -5,13 +5,13 @@
     <a href="https://github.com/wjl110/bytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/GO-1.17+-blueviolet"></a>
     <a href="https://github.com/wjl110/Mbytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/Version-1.0-red"></a>
     <a href="https://github.com/wjl110/bytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/LICENSE-MIT-ff69b4"></a>
-	<a href="https://github.com/wjl110/bytedance_GO_project/stargazers"><img alt="Release" src="https://img.shields.io/github/stars/wjl110/bytedance_GO_project/../../../../../../class.png"></a>
+
 </p>
 ## 欢迎 🐥 fork & star 
 
 ---
 
-![青训营基础班课程表](class.png)
+[青训营基础班课程表](class.png)
 
 # 资源搜集
 ## GO语言下载安装地址
