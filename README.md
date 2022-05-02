@@ -1,12 +1,12 @@
 # 🚀欢迎来到第三届字节跳动青训营基础班开源项目🚀
-## 欢迎 fork & star 
+## 欢迎 🐥 fork & star 
 
 ---
 
 ![青训营基础班课程表](class.png)
 
-# 资源搜集
-## GO语言下载
+# 资源搜集🤌
+## GO语言下载👉
 [Go官方下载地址](https://go.dev/learn/)、[windows](https://go.dev/dl/go1.18.1.windows-amd64.msi)、[macos](https://go.dev/dl/go1.18.1.darwin-amd64.pkg)、[linux](https://go.dev/dl/go1.18.1.linux-amd64.tar.gz)、[其他版本](https://go.dev/dl/)
 ## 了解GO语言的特性 
 
@@ -22,6 +22,17 @@
 [精选的 Go 框架、库和软件的精选列表](https://github.com/avelino/awesome-go)
 
 
-# 人员组成
+# GO个人笔记💪
+## [helloworld.go文件](helloworld.go)
+### 生成可执行文件:
+```go
+go build helloworld
+```
+## [可执行文件](helloworld)
+### 运行可执行文件
+```go
+./helloworld
+```
 
+# 人员组成👥
 ## 4-8人
