@@ -1,4 +1,12 @@
 # 🚀欢迎来到第三届字节跳动青训营基础班开源项目🚀
+<p align="center">
+    <a href="https://github.com/wjl110/bytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/Ascotbe-bytedance_GO_project-green"></a>
+    <a href="https://github.com/z"><img alt="Release" src="https://img.shields.io/github/repo-size/wjl110/bytedance_GO_project"></a>
+    <a href="https://github.com/wjl110/bytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/GO-1.17+-blueviolet"></a>
+    <a href="https://github.com/wjl110/Mbytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/Version-1.0-red"></a>
+    <a href="https://github.com/wjl110/bytedance_GO_project"><img alt="Release" src="https://img.shields.io/badge/LICENSE-MIT-ff69b4"></a>
+	<a href="https://github.com/wjl110/bytedance_GO_project/stargazers"><img alt="Release" src="https://img.shields.io/github/stars/wjl110/bytedance_GO_project/../../../../../../class.png"></a>
+</p>
 ## 欢迎 🐥 fork & star 
 
 ---
