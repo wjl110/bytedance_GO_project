@@ -5,14 +5,16 @@
 
 ![青训营基础班课程表](class.png)
 
-# 资源搜集🤌
-## GO语言下载👉
+# 资源搜集
+## GO语言下载安装地址
 [Go官方下载地址](https://go.dev/learn/)、[windows](https://go.dev/dl/go1.18.1.windows-amd64.msi)、[macos](https://go.dev/dl/go1.18.1.darwin-amd64.pkg)、[linux](https://go.dev/dl/go1.18.1.linux-amd64.tar.gz)、[其他版本](https://go.dev/dl/)
-## 了解GO语言的特性 
+## 了解GO语言的特性
 
 [GO官方文档](https://go.dev/doc/tutorial/getting-started)、
-[Go语言中文教程-菜鸟编程](https://www.runoob.com/go/go-tutorial.html)
-## github最佳实践和项目
+[Go语言中文教程-菜鸟编程](https://www.runoob.com/go/go-tutorial.html)、
+[Go 社区 Wiki](https://learnku.com/go/wikis)、
+[Go语言中文社区](http://xueyuan.coder55.com/read/go-senior-learn/go-senior-learn-index?F=top)
+## Github最佳实践和项目
 [关于Go语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 
 [【从入门到实战】学习笔记，从零开始学Go、Gin框架，基本语法包括26个Demo，Gin框架](https://github.com/xinliangnote/Go)
@@ -33,6 +35,9 @@ go build helloworld
 ```go
 ./helloworld
 ```
+# 贡献
+## [👨🏻‍💻wjl110](https://github.com/wjl110)
 
-# 人员组成👥
-## 4-8人
+# License
+
+## [MIT License](license)
